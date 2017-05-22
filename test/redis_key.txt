@@ -1,0 +1,16 @@
+my_list
+fileAttribute
+NEWS3
+hash
+FILE_INFO_LIST
+hash1
+name
+test string
+fjdka
+NEWS1
+a
+NEWS2
+test_string
+NEWS4
+HASH
+today

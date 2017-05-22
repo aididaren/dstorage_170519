@@ -1,0 +1,4 @@
+===20170520-170619,rop_connectdb_nopwd[370]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170520-170619,rop_disconnect[526]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
