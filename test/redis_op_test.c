@@ -50,6 +50,7 @@ int foreach_redis(redisContext *conn)
 		}
 		printf("%s\n", buf[n]);
 
+/*
 		char *each_key = buf[n];
 		char *value = (char *)malloc(1024);
 
@@ -84,7 +85,7 @@ int foreach_redis(redisContext *conn)
 		
 	}
 	
-	
+	*/
 
 
 	
